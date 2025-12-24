@@ -14,5 +14,13 @@ The objective of this project is to analyse retail sales data to:
 - SQL (data analysis and querying)
 - Tableau (data visualisation and dashboards)
 
+## Key Business Insights
+
+Based on the initial analysis of retail sales data, the following insights were identified:
+
+- Sales performance varies significantly across regions, indicating uneven market penetration.
+- Certain product categories consistently outperform others, suggesting an opportunity to optimise product mix.
+- Weekend sales contribute a substantial share of revenue, highlighting the importance of weekend-focused promotions.
+
 ## Status
 This project is currently in progress.
