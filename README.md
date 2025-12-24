@@ -22,5 +22,9 @@ Based on the initial analysis of retail sales data, the following insights were 
 - Certain product categories consistently outperform others, suggesting an opportunity to optimise product mix.
 - Weekend sales contribute a substantial share of revenue, highlighting the importance of weekend-focused promotions.
 
+### Product Category Performance
+
+Product category performance is uneven, with certain categories driving a disproportionate share of total revenue while others underperform. This suggests differences in customer demand and product effectiveness across categories. A review of pricing, promotions, and product assortment for underperforming categories could help improve overall sales performance.
+
 ## Status
 This project is currently in progress.
