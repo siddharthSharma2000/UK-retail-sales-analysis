@@ -56,8 +56,7 @@ Based on the initial analysis of retail sales data, the following insights were 
 - Sales performance varies significantly across regions, indicating uneven market penetration.
 - Certain product categories consistently outperform others, suggesting an opportunity to optimise product mix.
 - Weekend sales contribute a substantial share of revenue, highlighting the importance of weekend-focused promotions.
-https://github.com/siddharthSharma2000/UK-retail-sales-analysis/blob/main/visuals/UK%20Retail%20Performance%20Executive%20Summary..png
-
+![UK Retail Performance Dashboard](visuals/UK%20Retail%20Performance%20Executive%20Summary..png)
 ## Business Recommendations
 Based on the analysis, the following recommendations are proposed:
 - Increase promotional activity and staffing during weekends to maximise high-demand periods
@@ -75,5 +74,5 @@ Planned future enhancements include:
 - Profit and margin analysis by product category
 - Customer segmentation and basket analysis
 - Promotional uplift and seasonality analysis
-- Expansion of Tableau dashboards for executive reporting
+- Development of interactive drill-down features in Tableau to allow stakeholders to filter by specific product SKUs.
 
